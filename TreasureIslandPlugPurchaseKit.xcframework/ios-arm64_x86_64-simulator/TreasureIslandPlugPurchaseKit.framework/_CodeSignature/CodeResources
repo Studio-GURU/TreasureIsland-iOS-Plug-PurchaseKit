@@ -6,19 +6,19 @@
 	<dict>
 		<key>Frameworks/TreasureIslandFoundationKit.framework/Info.plist</key>
 		<data>
-		k/Ob4pdA71O/aYfL5s8+F2aOr+4=
+		kCko7HMHjaBNCFVbe0z9m2PaDME=
 		</data>
 		<key>Frameworks/TreasureIslandFoundationKit.framework/TreasureIslandFoundationKit</key>
 		<data>
-		BCbNWT0EzSHZDZu/BgzMiGVYsAg=
+		+FCItRCa5w0Ch6PMUSaywcKonBs=
 		</data>
 		<key>Frameworks/TreasureIslandFoundationKit.framework/TreasureIslandXConfig.xcconfig</key>
 		<data>
-		morS3oRVhne4pXxtvlPcWzrnTbo=
+		dPiWC+fezGBVF2zU2Zvji9DLxy8=
 		</data>
 		<key>Frameworks/TreasureIslandFoundationKit.framework/_CodeSignature/CodeResources</key>
 		<data>
-		qjq3p7ShzLnkw66bItMY89r+AHM=
+		XwzpQ3UXRHLAk1ZqQtmucKiXDhs=
 		</data>
 		<key>Headers/TreasureIslandPlugPurchaseKit.h</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		LGRIG0u67aMhZo6hK7EukWSTChk=
+		rfnNwiBwk5Fyun9j1eIn7OzD+Ek=
 		</data>
 		<key>Modules/TreasureIslandPlugPurchaseKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>TreasureIslandXConfig.xcconfig</key>
 		<data>
-		morS3oRVhne4pXxtvlPcWzrnTbo=
+		dPiWC+fezGBVF2zU2Zvji9DLxy8=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -83,28 +83,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			oAcT2VL8WtT0UEtUJu4y9jGGu8hmzuEnJ4OiM804Dos=
+			KtADdYwkvXChMZaeewzQzhJyTgly1ZamxJP88kCQ5mE=
 			</data>
 		</dict>
 		<key>Frameworks/TreasureIslandFoundationKit.framework/TreasureIslandFoundationKit</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			U10TLYkxTW6Mb3wxNV+mPttpYaT1fm+dyLhUmsOwJm0=
+			rus318GmvNAlfalk97OoqqEumqvLRLvjd68vKaao9uI=
 			</data>
 		</dict>
 		<key>Frameworks/TreasureIslandFoundationKit.framework/TreasureIslandXConfig.xcconfig</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GnyutN/PATiXDdbvkkWONpyNTKRLSz62ixN2U+2mkR4=
+			kjkhp+wkN7APGED+6GMNZPOSKA1nGv55rKW+G50+wgg=
 			</data>
 		</dict>
 		<key>Frameworks/TreasureIslandFoundationKit.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HnTOWXTkfVdH59J5OmtK9NRCN1Catl0jtNaclqnwzoE=
+			BEiR4ZwcxVIRXbNe6oarkMs/eWl7PhkistRQWJ0cb/M=
 			</data>
 		</dict>
 		<key>Headers/TreasureIslandPlugPurchaseKit.h</key>
@@ -195,7 +195,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GnyutN/PATiXDdbvkkWONpyNTKRLSz62ixN2U+2mkR4=
+			kjkhp+wkN7APGED+6GMNZPOSKA1nGv55rKW+G50+wgg=
 			</data>
 		</dict>
 	</dict>
