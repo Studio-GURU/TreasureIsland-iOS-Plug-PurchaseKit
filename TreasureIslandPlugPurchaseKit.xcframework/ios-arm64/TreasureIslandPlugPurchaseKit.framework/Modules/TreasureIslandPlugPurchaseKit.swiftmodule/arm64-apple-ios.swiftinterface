@@ -9,8 +9,9 @@ import TreasureIslandFoundationKit
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
-public struct PlugPurchaseBuilder {
+@_hasMissingDesignatedInitializers @objcMembers public class PlugPurchaseBuilder {
   public static func builder() -> any TreasureIslandFoundationKit.PurchaseContractBuilder
+  @objc deinit
 }
 @_hasMissingDesignatedInitializers public class PurchaseWebKit {
   public static func postPurchase(appToken: Swift.String, productId: Swift.String, completionHandler: @escaping (TreasureIslandFoundationKit.PurchaseResult) -> Swift.Void)

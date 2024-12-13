@@ -56,23 +56,26 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:29TreasureIslandPlugPurchaseKit0cD7BuilderV7builder0ab10FoundationE00d8ContractF0_pyFZ",
-            "mangledName": "$s29TreasureIslandPlugPurchaseKit0cD7BuilderV7builder0ab10FoundationE00d8ContractF0_pyFZ",
+            "usr": "s:29TreasureIslandPlugPurchaseKit0cD7BuilderC7builder0ab10FoundationE00d8ContractF0_pyFZ",
+            "mangledName": "$s29TreasureIslandPlugPurchaseKit0cD7BuilderC7builder0ab10FoundationE00d8ContractF0_pyFZ",
             "moduleName": "TreasureIslandPlugPurchaseKit",
             "static": true,
             "declAttributes": [
+              "Final",
               "AccessControl"
             ],
             "funcSelfKind": "NonMutating"
           }
         ],
-        "declKind": "Struct",
-        "usr": "s:29TreasureIslandPlugPurchaseKit0cD7BuilderV",
-        "mangledName": "$s29TreasureIslandPlugPurchaseKit0cD7BuilderV",
+        "declKind": "Class",
+        "usr": "s:29TreasureIslandPlugPurchaseKit0cD7BuilderC",
+        "mangledName": "$s29TreasureIslandPlugPurchaseKit0cD7BuilderC",
         "moduleName": "TreasureIslandPlugPurchaseKit",
         "declAttributes": [
-          "AccessControl"
+          "AccessControl",
+          "ObjCMembers"
         ],
+        "hasMissingDesignatedInitializers": true,
         "conformances": [
           {
             "kind": "Conformance",
